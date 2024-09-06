@@ -5,7 +5,7 @@ This project implements a deep learning model for classification tasks, focusing
 
 ## Files
 
-- **Code.ipynb**: Jupyter notebook with model training and evaluation code.
+- **run.ipynb**: Jupyter notebook with model training and evaluation code.
 - **Training and validation plots**: Visualizes the accuracy and loss of the model over time.
 - **Confusion Matrix**: Provides insights into the model's performance for each class.
 - **Classification Report**: Includes precision, recall, and F1 scores for each class.
@@ -13,9 +13,8 @@ This project implements a deep learning model for classification tasks, focusing
 ## Instructions
 
 1. Clone this repository: `git clone <repository-url>`
-2. Install the necessary packages: `pip install -r requirements.txt`
-3. Open the Jupyter notebook: `jupyter notebook Code.ipynb`
-4. Run the notebook to train the model and evaluate its performance.
+2. Open the Jupyter notebook: `jupyter notebook Code.ipynb`
+3. Run the notebook to train the model and evaluate its performance.
 
 ## Model Details
 
