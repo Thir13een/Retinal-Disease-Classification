@@ -13,7 +13,7 @@ This project implements a deep learning model for classification tasks, focusing
 ## Instructions
 
 1. Clone this repository: `git clone <repository-url>`
-2. Open the Jupyter notebook: `jupyter notebook Code.ipynb`
+2. Open the Jupyter notebook: `jupyter notebook run.ipynb`
 3. Run the notebook to train the model and evaluate its performance.
 
 ## Model Details
